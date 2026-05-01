@@ -19,7 +19,7 @@ PDF → Extraction → Chunking → Structured Data → Conflict Resolver → DD
 - Fallback system when API fails
 
 ## 📄 Sample Output
-(Attach screenshot or sample PDF)
+(https://github.com/84548123/ai-ddr-generator/blob/main/Output/final_ddr.pdf)
 
 ## 🎥 Demo
 (Add Loom link)
