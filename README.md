@@ -22,4 +22,4 @@ PDF → Extraction → Chunking → Structured Data → Conflict Resolver → DD
 (https://github.com/84548123/ai-ddr-generator/blob/main/Output/final_ddr.pdf)
 
 ## 🎥 Demo
-(Add Loom link)
+(https://www.loom.com/share/66ac5094cb9d48ee975a3483bb4dd65b)
