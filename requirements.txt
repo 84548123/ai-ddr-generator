@@ -1,5 +1,8 @@
 streamlit
 openai
 python-dotenv
-PyMuPDF
-fpdf2
+fpdf
+pymupdf
+langchain
+faiss-cpu
+Pillow
